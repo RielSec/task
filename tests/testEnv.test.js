@@ -1,4 +1,3 @@
-
 require('dotenv').config();
 
 describe('Verifica as variáveis de ambiente', () => {
