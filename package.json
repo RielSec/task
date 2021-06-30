@@ -1,0 +1,28 @@
+{
+  "name": "teste-gh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src --ext js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RielSec/teste-gh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RielSec/teste-gh/issues"
+  },
+  "homepage": "https://github.com/RielSec/teste-gh#readme",
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
